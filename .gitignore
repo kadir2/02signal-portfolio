@@ -1,11 +1,1 @@
-# Binaarfailid — need ei kuulu GitHubi
-*.docx
-*.pptx
-*.pdf
-*.xlsx
-# Pildifailid — kui on väga suured
-*.jpg
-*.png
-# Süsteemifailid
-.DS_Store
-Thumbs.db
+
